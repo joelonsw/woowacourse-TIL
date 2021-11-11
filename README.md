@@ -17,7 +17,7 @@
 ## [Level 2 - 웹 프로그래밍](./Level2#readme) (2021.04.13 ~ 2021.06.19)
 #### 학습 내용
 - [페어 프로그래밍 및 코드 리뷰로 구성된 Level 2 미션 진행](https://joel-dev.site/85) 
-- Spring Framework
+- Spring Framework 기초
     - Spring MVC/JDBC/Core
     - Spring Test
 - 웹 전반에 대한 학습
@@ -29,8 +29,8 @@
 
 ## [Level 3 - 팀 프로젝트](./Level3#readme) (2021.06.23 ~ 2021.08.23)
 #### 학습 내용
-- Spring Framework
-- JPA & Database
+- Spring Framework 심화
+- JPA & Database 기초
 - 배포 인프라
     - 도커
     - 젠킨스
@@ -46,8 +46,15 @@
 ## [Level 4 - 웹 프로그래밍 심화, 팀 프로젝트](./Level4#readme) (2021.08.24 ~ 2021.10.31)
 #### 학습 내용
 - [크루들 간의 상호 코드 리뷰로 구성된 Level 4 미션 진행]()
-- Spring Framework
-- JPA & Database
+- Spring Framework 심화
+- JPA & Database 심화
 - Network
 - 배포 인프라 및 운영
 - Vue.js
+
+## [Level 5 - 개인 학습, 취업 준비](./Level5#readme) (2021.11.01 ~ 2021.11.26)
+#### 학습 내용
+- Spring Framework 심화
+- JPA 심화
+- Network
+- 좋은 설계에 대한 고민
