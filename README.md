@@ -26,3 +26,18 @@
     - 기술 서적 독서
     - 미션 피드백 정리
     - 우테코 수업 정리
+
+## [Level 3 - 팀 프로젝트](./Level3#readme) (2021.06.23 ~ 2021.08.23)
+- **학습한 내용**
+    - Spring Framework
+    - JPA & Database
+    - 서버 인프라
+        - 도커
+        - 젠킨스
+        - AWS: EC2, S3, cloudfront
+    - 웹 서비스에 필요한 기술
+        - OAuth
+        - Logging
+    - 협업
+        - Git
+        - Slack Webhooks
