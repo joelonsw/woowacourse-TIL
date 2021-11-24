@@ -27,6 +27,7 @@
 - [템플릿 메서드 패턴](./2021-11-24.md#템플릿-메서드-패턴)
 - [템플릿 콜백 패턴](./2021-11-24.md#템플릿-콜백-패턴)
 - [Clustered Index VS Non-Clustered Index](./2021-11-24.md#non-clustered-index-vs-clustered-index)
+- [HTTP 요청 전 TCP 연결 수립](./2021-11-24.md#http-요청-전에-tcp-3-way-handshake)
 
 ## 생각 정리
 - [댓글 삭제 로직 변경 - 놀토 팀원들과 대화](./2021-11-10.md#댓글-삭제-로직-변경)
